@@ -11,6 +11,13 @@ Developed an interactive Power BI dashboard to analyze Blinkit sales performance
 - Power BI
 - Excel
 
+## Dataset
+
+The dataset used for this project is available on Kaggle:
+https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset
+
+*Note: The dataset is not included in this repository. Please download it from Kaggle and import it into MySQL before running the SQL queries or Power BI dashboard.*
+
 ## Key Insights
 
 - Total Revenue
